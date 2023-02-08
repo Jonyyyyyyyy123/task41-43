@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rvi_Jalo\\Desktop\\NEW\\task41\\task41.csproj": {}
+    "C:\\Users\\Rvi_Jalo\\Desktop\\TASK(DZ)41-43\\task41\\task41.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rvi_Jalo\\Desktop\\NEW\\task41\\task41.csproj": {
+    "C:\\Users\\Rvi_Jalo\\Desktop\\TASK(DZ)41-43\\task41\\task41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rvi_Jalo\\Desktop\\NEW\\task41\\task41.csproj",
+        "projectUniqueName": "C:\\Users\\Rvi_Jalo\\Desktop\\TASK(DZ)41-43\\task41\\task41.csproj",
         "projectName": "task41",
-        "projectPath": "C:\\Users\\Rvi_Jalo\\Desktop\\NEW\\task41\\task41.csproj",
+        "projectPath": "C:\\Users\\Rvi_Jalo\\Desktop\\TASK(DZ)41-43\\task41\\task41.csproj",
         "packagesPath": "C:\\Users\\Rvi_Jalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rvi_Jalo\\Desktop\\NEW\\task41\\obj\\",
+        "outputPath": "C:\\Users\\Rvi_Jalo\\Desktop\\TASK(DZ)41-43\\task41\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rvi_Jalo\\AppData\\Roaming\\NuGet\\NuGet.Config"
